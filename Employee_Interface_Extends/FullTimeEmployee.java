@@ -1,4 +1,4 @@
-package BaiTap.Employee_Interface_Extends;
+package Employee_Interface_Extends;
 
 public class FullTimeEmployee extends Employee implements IEmployee{
     public FullTimeEmployee(String name, int paymentPerHour) {
