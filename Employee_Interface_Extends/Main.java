@@ -1,4 +1,4 @@
-package BaiTap.Employee_Interface_Extends;
+package Employee_Interface_Extends;
 import java.util.Scanner;
 
 public class Main {
